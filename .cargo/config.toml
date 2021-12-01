@@ -1,3 +1,0 @@
-[cargo-new]
-vcs = "none"              # VCS to use ('git', 'hg', 'pijul', 'fossil', 'none')
-
