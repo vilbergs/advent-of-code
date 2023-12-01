@@ -1,0 +1,29 @@
+{
+  "tasks": {
+    "day-01": "deno run -A ./day-01/main.ts",
+    "day-02": "deno run -A ./day-02/main.ts",
+    "day-03": "deno run -A ./day-03/main.ts",
+    "day-04": "deno run -A ./day-04/main.ts",
+    "day-05": "deno run -A ./day-05/main.ts",
+    "day-06": "deno run -A ./day-06/main.ts",
+    "day-07": "deno run -A ./day-07/main.ts",
+    "day-08": "deno run -A ./day-08/main.ts",
+    "day-09": "deno run -A ./day-09/main.ts",
+    "day-10": "deno run -A ./day-10/main.ts",
+    "day-11": "deno run -A ./day-11/main.ts",
+    "day-12": "deno run -A ./day-12/main.ts",
+    "day-13": "deno run -A ./day-13/main.ts",
+    "day-14": "deno run -A ./day-14/main.ts",
+    "day-15": "deno run -A ./day-15/main.ts",
+    "day-16": "deno run -A ./day-16/main.ts",
+    "day-17": "deno run -A ./day-17/main.ts",
+    "day-18": "deno run -A ./day-18/main.ts",
+    "day-19": "deno run -A ./day-19/main.ts",
+    "day-20": "deno run -A ./day-20/main.ts",
+    "day-21": "deno run -A ./day-21/main.ts",
+    "day-22": "deno run -A ./day-22/main.ts",
+    "day-23": "deno run -A ./day-23/main.ts",
+    "day-24": "deno run -A ./day-24/main.ts",
+    "day-25": "deno run -A ./day-25/main.ts"
+  }
+}
