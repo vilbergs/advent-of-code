@@ -1,4 +1,8 @@
 {
+  "imports": {
+    "/": "./",
+    "./": "./"
+  },
   "tasks": {
     "day-01": "deno run -A ./day-01/main.ts",
     "day-02": "deno run -A ./day-02/main.ts",
